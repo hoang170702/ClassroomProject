@@ -1,0 +1,7 @@
+# Bỏ qua HTML, CSS, JS khi tính ngôn ngữ
+*.html linguist-detectable=false
+*.css linguist-detectable=false
+*.js linguist-detectable=false
+
+# Đảm bảo Java được nhận diện
+*.java linguist-language=Java
